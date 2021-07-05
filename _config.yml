@@ -15,7 +15,7 @@
 # in the templates via {{ site.myvariable }}.
 title: Digital Studio 2021
 tagline: Fall 2021 Digital Studio: Distribution and Intervention
-description: Professor: Shabtai Pinchevsky | Online Office Hours: W 12:00-1:30p, Th 12:00-1:30p
+description: Professor: Shabtai Pinchevsky
 author: Shabtai Pinchevsky
 baseurl: '/2021DigitalStudio' # the subpath of your site, e.g. /blog
 url: 'https://taipinc.github.io' # the base hostname & protocol for your site, e.g. http://example.com

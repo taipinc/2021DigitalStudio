@@ -1,9 +1,9 @@
 ---
-title: Introduction to Java
+title: Introduction to Digital Art
 ---
 
-Sep 28
-: [Java & Git](#)
+Aug 27
+: [History of Computers](http://www.taishabtai.com/)
   : [1.1](#)
 
 Sep 29

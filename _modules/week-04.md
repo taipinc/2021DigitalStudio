@@ -1,17 +1,18 @@
 ---
-title: Virtual Spaces
+title: Algorithms
 ---
 
 Nov 8
-: [Linked Lists & Encapsulation](#)
+: [Instructions](#)
   : [3.1](#), [2.2](#), [2.3](#)
 
 Nov 10
-: **Section**{: .label .label-purple }[Linked Lists](#)
+: [Instructions II](#)
   : [Solution](#)
+: **HW 1 due**{: .label .label-red }
 
 Nov 15
-: [Resizing Arrays](#)
+: **Lab**{: .label .label-purple }[Introduction to p5.js](#)
   : [2.4](#), [2.5](#)
 
 Nov 17

@@ -93,15 +93,15 @@
     }
 
     &.lecture {
-      background-color: $green-000;
-    }
-
-    &.hacker-hours {
       background-color: $purple-000;
     }
 
+    &.hacker-hours {
+      background-color: $grey-lt-300;
+    }
+
     &.office-hours {
-      background-color: $blue-000;
+      background-color: $grey-lt-200;
     }
   }
 }

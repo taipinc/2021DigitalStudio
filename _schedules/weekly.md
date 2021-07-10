@@ -24,39 +24,27 @@ schedule:
       - name: Lecture
         start: 1:20 PM
         end: 3:10 PM
-        location: 150 Wheeler
+        location: 
       - name: Office Hours
-        start: 12:30 PM
-        end: 2:00 PM
-        location: 271 Soda
+        start: 3:10 PM
+        end: 5:00 PM
+        location: 
   - name: Tuesday
+    events:
+      - name: Office Hours
+        start: 11:00 AM
+        end: 1:00 PM
+        location:
   - name: Wednesday
     events:
       - name: Lecture
-        start: 9:30 AM
-        end: 10:30 AM
-        location: 150 Wheeler
-      - name: Section
-        start: 11:30 AM
-        end: 12:30 PM
-        location: 310 Soda
-      - name: Office Hours
-        start: 12:30 PM
-        end: 2:00 PM
-        location: 271 Soda
+        start: 1:20 PM
+        end: 3:10 PM
+        location: 
+      - name: Hacker Hours
+        start: 3:10 PM
+        end: 5:00 PM
+        location: 
   - name: Thursday
   - name: Friday
-    events:
-      - name: Lecture
-        start: 9:30 AM
-        end: 10:30 AM
-        location: 150 Wheeler
-      - name: Section
-        start: 11:30 AM
-        end: 12:30 PM
-        location: 310 Soda
-      - name: Office Hours
-        start: 12:30 PM
-        end: 2:00 PM
-        location: 271 Soda
 ---

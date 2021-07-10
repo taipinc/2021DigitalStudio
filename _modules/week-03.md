@@ -1,38 +1,38 @@
 ---
-title: Virtual Spaces
+title: Maps
 ---
 
-Sep 13
+Oct 11
 : [Linked Lists & Encapsulation](#)
   : [3.1](#), [2.2](#), [2.3](#)
 
-Sep 15
+Oct 13
 : **Section**{: .label .label-purple }[Linked Lists](#)
   : [Solution](#)
 
-Sep 20
+Oct 18
 : [Resizing Arrays](#)
   : [2.4](#), [2.5](#)
 
-Sep 22
+Oct 20
 : **Lab**{: .label .label-purple } [Resizing Arrays](#)
 
-Sep 27
+Oct 25
 : [Runtime Analysis](#)
   : [8.1](#), [8.2](#), [8.3](#), [8.4](#)
 : **HW 2 due**{: .label .label-red }
 
-Sep 29
+Oct 27
 : [Runtime Analysis](#)
   : [8.1](#), [8.2](#), [8.3](#), [8.4](#)
 : **HW 2 due**{: .label .label-red }
 
-Oct 4
+Nov 1
 : [Runtime Analysis](#)
   : [8.1](#), [8.2](#), [8.3](#), [8.4](#)
 : **HW 2 due**{: .label .label-red }
 
-Oct 6
+Nov 3
 : [Runtime Analysis](#)
   : [8.1](#), [8.2](#), [8.3](#), [8.4](#)
 : **HW 2 due**{: .label .label-red }

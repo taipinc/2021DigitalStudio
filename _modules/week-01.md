@@ -2,22 +2,18 @@
 title: Introduction to Digital Art
 ---
 
-Aug 27
+Aug 30
 : [History of Computers](http://www.taishabtai.com/)
   : [1.1](#)
 
-Sep 29
-: **Section**{: .label .label-purple }[Intro to Java](#)
+Sep 1
+: **Class Activity**{: .label .label-purple }[The Abacus](#)
   : [Solution](#)
 
-Sep 30
+Sep 6
 : [Variables & Objects](#)
   : [1.2](#), [2.1](#)
 
-Oct 1
+Spec 8
 : **Lab**{: .label .label-purple } [Intro to Java](#)
 
-Oct 2
-: [Tracing, IntLists, & Recursion](#)
-  : [2.1](#)
-: **HW 1 due**{: .label .label-red }

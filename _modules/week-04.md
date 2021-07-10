@@ -2,37 +2,47 @@
 title: Virtual Spaces
 ---
 
-Sep 13
+Nov 8
 : [Linked Lists & Encapsulation](#)
   : [3.1](#), [2.2](#), [2.3](#)
 
-Sep 15
+Nov 10
 : **Section**{: .label .label-purple }[Linked Lists](#)
   : [Solution](#)
 
-Sep 20
+Nov 15
 : [Resizing Arrays](#)
   : [2.4](#), [2.5](#)
 
-Sep 22
+Nov 17
 : **Lab**{: .label .label-purple } [Resizing Arrays](#)
 
-Sep 27
+Nov 22
 : [Runtime Analysis](#)
   : [8.1](#), [8.2](#), [8.3](#), [8.4](#)
 : **HW 2 due**{: .label .label-red }
 
-Sep 29
+Nov 24
 : [Runtime Analysis](#)
   : [8.1](#), [8.2](#), [8.3](#), [8.4](#)
 : **HW 2 due**{: .label .label-red }
 
-Oct 4
+Nov 29
 : [Runtime Analysis](#)
   : [8.1](#), [8.2](#), [8.3](#), [8.4](#)
 : **HW 2 due**{: .label .label-red }
 
-Oct 6
+Nov 31
+: [Runtime Analysis](#)
+  : [8.1](#), [8.2](#), [8.3](#), [8.4](#)
+: **HW 2 due**{: .label .label-red }
+
+Dec 6
+: [Runtime Analysis](#)
+  : [8.1](#), [8.2](#), [8.3](#), [8.4](#)
+: **HW 2 due**{: .label .label-red }
+
+Dec 8
 : [Runtime Analysis](#)
   : [8.1](#), [8.2](#), [8.3](#), [8.4](#)
 : **HW 2 due**{: .label .label-red }

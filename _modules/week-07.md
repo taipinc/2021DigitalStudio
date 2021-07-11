@@ -1,11 +1,11 @@
 ---
-title: Week 3
+title: Week 7
 ---
 
-Sep 13
+Oct 11
 : [Linked Lists & Encapsulation](#)
   : [3.1](#), [2.2](#), [2.3](#)
 
-Sep 15
+Oct 13
 : **Section**{: .label .label-purple }[Linked Lists](#)
   : [Solution](#)

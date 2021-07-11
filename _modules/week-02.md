@@ -1,38 +1,11 @@
 ---
-title: Virtual Spaces
+title: Week 2
 ---
 
-Sep 13
-: [Linked Lists & Encapsulation](#)
-  : [3.1](#), [2.2](#), [2.3](#)
+Sep 6
+: [Variables & Objects](#)
+  : [1.2](#), [2.1](#)
 
-Sep 15
-: **Section**{: .label .label-purple }[Linked Lists](#)
-  : [Solution](#)
+Spec 8
+: **Lab**{: .label .label-purple } [Intro to Java](#)
 
-Sep 20
-: [Resizing Arrays](#)
-  : [2.4](#), [2.5](#)
-
-Sep 22
-: **Lab**{: .label .label-purple } [Resizing Arrays](#)
-
-Sep 27
-: [Runtime Analysis](#)
-  : [8.1](#), [8.2](#), [8.3](#), [8.4](#)
-: **HW 2 due**{: .label .label-red }
-
-Sep 29
-: [Runtime Analysis](#)
-  : [8.1](#), [8.2](#), [8.3](#), [8.4](#)
-: **HW 2 due**{: .label .label-red }
-
-Oct 4
-: [Runtime Analysis](#)
-  : [8.1](#), [8.2](#), [8.3](#), [8.4](#)
-: **HW 2 due**{: .label .label-red }
-
-Oct 6
-: [Runtime Analysis](#)
-  : [8.1](#), [8.2](#), [8.3](#), [8.4](#)
-: **HW 2 due**{: .label .label-red }
